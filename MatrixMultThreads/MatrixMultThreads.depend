@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555094730 source:/home/brehynnermraz/Documentos/PARALELA/MatrixMultThreads/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
