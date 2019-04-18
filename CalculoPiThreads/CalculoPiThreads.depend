@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554971395 source:/home/brehynnermraz/Documentos/PARALELA/CalculoPiThreads/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
