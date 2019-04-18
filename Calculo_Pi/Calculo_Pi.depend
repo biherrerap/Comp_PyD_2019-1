@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554890945 source:/home/brehynnermraz/Documentos/PARALELA/Calculo_Pi/main.c
+	<stdio.h>
+	<pthread.h>
+	<stdlib.h>
+
